@@ -2,16 +2,15 @@
 # Hello! I'm TIger 🐯
 
 ## Contact
-- Email: your.email@example.com
+- Email: easttiger97@gmail.com
 
 ## Tech Stack
-- **Project Management**: Jira, Trello
 - **Collaboration Tools**: Slack, Microsoft Teams
-- **Documentation**: Confluence, Notion
-- **Design**: Figma
+- **Documentation**: Notion
+- **Design**: Figma,Framer
 - **Data Analysis**: Google Analytics
 - **Version Control**: Git, GitHub
-- **Communication**: Zoom, Microsoft Teams
+- **Communication**: Zoom
 
 I'm a product manager, focusing on creating user-centered products. I'm open to new technologies and trends, and constantly strive for improvement through process optimization and collaboration.
 
