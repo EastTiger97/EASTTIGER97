@@ -1,18 +1,19 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Tiger&fontSize=90)
-![giphy](https://github.com/EastTiger97/EASTTIGER97/assets/155949817/cbec994e-97e4-494e-bcee-109c1a614f78)
+# Hello! I'm TIger 🐯
 
+## Contact
+- Email: your.email@example.com
 
-**EastTiger97/EASTTIGER97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
+- **Project Management**: Jira, Trello
+- **Collaboration Tools**: Slack, Microsoft Teams
+- **Documentation**: Confluence, Notion
+- **Design**: Figma
+- **Data Analysis**: Google Analytics
+- **Version Control**: Git, GitHub
+- **Communication**: Zoom, Microsoft Teams
 
-Here are some ideas to get you started:
+I'm a product manager, focusing on creating user-centered products. I'm open to new technologies and trends, and constantly strive for improvement through process optimization and collaboration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out! I'm open to collaboration at any time.
+
