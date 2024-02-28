@@ -1,6 +1,7 @@
 ### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Tiger&fontSize=90)
-<!--![giphy](https://github.com/EastTiger97/EASTTIGER97/assets/155949817/ef80dfb2-df19-494b-b9dc-736cba2b406a)
+![giphy](https://github.com/EastTiger97/EASTTIGER97/assets/155949817/cbec994e-97e4-494e-bcee-109c1a614f78)
+
 
 **EastTiger97/EASTTIGER97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
