@@ -3,7 +3,17 @@
 <!-- My CV/resume -->
 <details>
 <summary>About Me</summary>
-
+<br><br>
+<span>
+  <a href="https://junia3.github.io">
+    <img src="https://img.shields.io/badge/GitHub Blog-red?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
+  </a>
+</span>
+<span>
+  <a href="mailto:jun_yonsei@yonsei.ac.kr">
+    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
+  </a>
+</span>
 # 안녕하세요! 기획자 TIger입니다 🐯
 
 ## 연락처
