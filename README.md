@@ -1,5 +1,6 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&size=77&duration=3700&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=1000&height=150&lines=Hello!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;Bonjour!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!;Guten+Tag!;%E6%82%A8%E5%A5%BD!;Hola!)](https://git.io/typing-svg)
+
 <!-- My CV/resume -->
 <details>
 <summary>About Me</summary>
@@ -14,16 +15,6 @@
     <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
   </a>
 </span>
-<span>
-  <a href="https://www.instagram.com/6unoyunr/">
-    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
-  </a>
-</span>
-<span>
-  <a href="https://www.facebook.com/jyyonsei">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=plastic&logo=Facebook&logoColor=white"/>
-  </a>
-</span>   
 <br><br>
 
 
