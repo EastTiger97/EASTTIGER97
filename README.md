@@ -4,7 +4,7 @@
 
 
 <a href="https://github.com/EastTiger97/github-readme-stats">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Easttiger97&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Easttiger97&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=100%/>
 </a>
 
 
