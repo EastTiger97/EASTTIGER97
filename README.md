@@ -18,9 +18,6 @@
   </a>
 </div>
 
-<!--Eating Data Snake-->
-<img src="https://github.com/EastTiger97/EastTiger97/blob/output/github-snake.svg" width="100%">
-
 
 <!--Hits-->
 <div align="center">
